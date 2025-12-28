@@ -1,4 +1,4 @@
-package JavaFundamentals_1.BasicSyntax_1.FlowControlDeclarations_7.For_4;
+package JavaFundamentals_1.BasicSyntax_1.FlowControlDeclarations_7;
 
-public class For {
+public class For_4 {
 }

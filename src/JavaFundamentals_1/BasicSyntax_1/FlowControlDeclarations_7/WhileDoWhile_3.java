@@ -1,4 +1,4 @@
-package JavaFundamentals_1.BasicSyntax_1.FlowControlDeclarations_7.WhileDoWhile_3;
+package JavaFundamentals_1.BasicSyntax_1.FlowControlDeclarations_7;
 
-public class WhileDoWhile {
+public class WhileDoWhile_3 {
 }

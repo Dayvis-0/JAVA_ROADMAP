@@ -1,0 +1,42 @@
+# IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# Compilados Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Temporales
+*.tmp
+*.bak
+*.swp
+*~

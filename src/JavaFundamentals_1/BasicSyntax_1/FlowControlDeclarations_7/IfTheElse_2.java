@@ -1,4 +1,4 @@
-package JavaFundamentals_1.BasicSyntax_1.FlowControlDeclarations_7.ifThenElse_2;
+package JavaFundamentals_1.BasicSyntax_1.FlowControlDeclarations_7;
 
-public class IfTheElse {
+public class IfTheElse_2 {
 }
