@@ -1,4 +1,26 @@
 package JavaFundamentals_1.VariablesAndScopes_4.Variables_1.VariableDeclaration_3;
-
+/*La fomra exacta en que se declara una variable depende del tipo de variable que
+sea(no estatica, estatica, local, parametro)*/
 public class Statement {
+    public static void main(String[] args) {
+        // Declarar una variable -> type name;
+        int myVariable;
+        // Primitivos
+        byte myByte;
+        short myShort;
+        char myChar;
+        int myInt;
+        long myLong;
+        float myFloat;
+        double myDouble;
+        // Tipo objetos
+        /*Byte myByte;
+        Short myShort;
+        Character myChar;
+        Integer myInt;
+        Long myLong;
+        Float myFloat;
+        Double myDouble;
+        String myString;*/
+    }
 }
