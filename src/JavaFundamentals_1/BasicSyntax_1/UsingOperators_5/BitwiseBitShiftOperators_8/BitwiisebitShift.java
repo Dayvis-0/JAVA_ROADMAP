@@ -1,6 +1,6 @@
 package JavaFundamentals_1.BasicSyntax_1.UsingOperators_5.BitwiseBitShiftOperators_8;
 /*El operador de complemento bit a bit ~  invierte un patron de bits; se puede aplicar a
-cualquiera de los tipos integrales, haciendo que cada "0" se aun "1" y cada "1" un "0".
+cualquiera de los tipos integrales, haciendo que cada "0" sea un "1" y cada "1" un "0".
 El bitwise & el operador realiza una operacion de AND bit a bit*/
 public class BitwiisebitShift {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 package JavaFundamentals_1.BasicSyntax_1.CreationPrimitives_2.PersonSubsLiteralesNume_7;
-/*Solo se puede colocar guines bajos entre guiones: no se puede colocar en los siguientes lugares:
+/*Solo se puede colocar guines bajos entre digitos: no se puede colocar en los siguientes lugares:
 Al principio o al final de un numero
 Adyacente a un punto decimal en un punto literal
 Antes de un F o L sufijo

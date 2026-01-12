@@ -4,7 +4,7 @@ public class VariablesName {
     static final String DEFAULT_LANGUAGE = "EN";
 
     public static void main(String[] args) {
-        // El nombre de la variable comenzar con una letra, el signo $, el caracter de subrayado _ ppor convencion se usa un letra
+        // El nombre de la variable debe comenzar con una letra, el signo $, el caracter de subrayado _ por convencion se usa un letra
         String name = "Dayvis";
         // Por convecion el signo $, nunca se usa, en absolto
         // Si el nombre consta de una sola palabra, deletree esa palabra

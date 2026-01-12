@@ -1,8 +1,8 @@
 package JavaFundamentals_1.BasicSyntax_1.CreatingArrays_3.CreationInitializationAccessMatrix_3;
 import java.util.Arrays;
 
-/*El sytem la clase tiene un arraycopy() metodo que puede usar para copiar datos de manera eficiente de
-una matriz a otra*/
+/*El sytem la clase tiene un arraycopy() metodo que puede usar para copiar datos de
+manera eficiente de una matriz a otra*/
 public class CopyArray {
 
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package JavaFundamentals_1.BasicSyntax_1.CreatingArrays_3.CreationInitializationAccessMatrix_3;
 /*Las variables  de clase (campos estaticos) son campos declarados con el midificador estatico: hay
-exactemente una copia deuna variable de clase, independientemente de cuantas veces se haya instanciado la clase
+exactemente una copia de una variable de clase, independientemente de cuantas veces se haya instanciado la clase
 Las variables locales almacenan el estado temporal dentro de un metodo
 Literal -> valor fijo en el codigo fuente*/
 public class VariablesArrayEnvo {

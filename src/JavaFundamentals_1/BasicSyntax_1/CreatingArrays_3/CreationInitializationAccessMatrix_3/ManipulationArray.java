@@ -24,7 +24,7 @@ public class ManipulationArray {
             cont++;
         }
         // Otra forma de mostrarlo
-        System.out.println(Arrays.toString(copyTo));
+        System.out.println("Otra forma de mostrarlo: " + Arrays.toString(copyTo));
         System.out.println("\tMetodo binarySearch()");
         /*binarySearch(int[] a, a key int)
         Busca la matriz especificada de entradas para el valor especificado el algoritmo de busqueda binaria
@@ -67,7 +67,7 @@ public class ManipulationArray {
         System.out.println("\tMetodo parallelSort()");
         /*parallelSort(in[] a)
         Ordenar la matriz especificada en orden numerico ascendente
-        a -> la matriz a ordenaes*/
+        a -> la matriz a ordenar es*/
         int[] nume2 = {1,200,2,4};
         Arrays.parallelSort(nume2);
 

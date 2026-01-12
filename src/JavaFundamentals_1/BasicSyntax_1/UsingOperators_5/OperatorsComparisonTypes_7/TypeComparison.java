@@ -7,12 +7,12 @@ public class TypeComparison {
         Parent obj1 = new Parent();
         Parent obj2 = new Child();
 
-        System.out.println("obj1 instanceof Parentf: " + (obj1 instanceof Parent));
-        System.out.println("obj1 instanceof Child: " + (obj1 instanceof Child));
-        System.out.println("obj1 instanceof Parentf: " + (obj1 instanceof MyInterface));
-        System.out.println("obj2 instanceof Parentf: " + (obj2 instanceof Parent));
-        System.out.println("obj2 instanceof Child: " + (obj2 instanceof Child));
-        System.out.println("obj2 instanceof Parentf: " + (obj2 instanceof MyInterface));
+        System.out.println("obj1 = " + obj1.getClass().getSimpleName() + " instanceof Parent -  " + (obj1 instanceof Parent));
+        System.out.println("obj1 = " + obj1.getClass().getSimpleName() + " instanceof Child -  " + (obj1 instanceof Child));
+        System.out.println("obj1 = " + obj1.getClass().getSimpleName() + " instanceof MyInterface -  " + (obj1 instanceof MyInterface));
+        System.out.println("obj2 = " + obj2.getClass().getSimpleName() + " instanceof Parent -  " + (obj2 instanceof Parent));
+        System.out.println("obj2 = " + obj2.getClass().getSimpleName() + " instanceof Child -  " + (obj2 instanceof Child));
+        System.out.println("obj2 = " + obj2.getClass().getSimpleName() + " instanceof MyInterface -  " + (obj2 instanceof MyInterface));
     }
 }
 

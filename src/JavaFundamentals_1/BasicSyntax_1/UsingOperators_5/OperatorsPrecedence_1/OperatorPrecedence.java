@@ -1,6 +1,6 @@
 package JavaFundamentals_1.BasicSyntax_1.UsingOperators_5.OperatorsPrecedence_1;
-/*Los operadores son simbolos especiales que realizan operaciones especificas en uno, dos o tres
-operandos y luego devuelven un resultado
+/*Los operadores son simbolos especiales que realizan operaciones especificas en uno,
+dos o tres operandos y luego devuelven un resultado
 
 Los operadores se enumeran de acuerdo con el orden de precedencia*/
 public class OperatorPrecedence {

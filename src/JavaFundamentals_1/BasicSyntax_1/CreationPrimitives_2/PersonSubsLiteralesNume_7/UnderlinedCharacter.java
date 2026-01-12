@@ -1,5 +1,6 @@
 package JavaFundamentals_1.BasicSyntax_1.CreationPrimitives_2.PersonSubsLiteralesNume_7;
-/*En Java SE 7 y versiones posteriores, cualquier numero de caracteres de subrayado (_  )*/
+/*En Java SE 7 y versiones posteriores, cualquier numero de caracteres de subrayado (_)
+puede aparecer en cualquier lugar entre los digitos de un literal numérico*/
 public class UnderlinedCharacter {
     public static void main(String[] args) {
         /*Por ejemplo: si el codigo contiene muchos numeros con munchos digitos

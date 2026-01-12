@@ -10,6 +10,5 @@ public class LiteralValues {
         byte b = 100;
         short s = 10000;
         int a_int = 1000;
-
     }
 }
