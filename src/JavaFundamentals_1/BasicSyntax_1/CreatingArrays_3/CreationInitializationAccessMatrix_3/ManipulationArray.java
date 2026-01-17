@@ -10,7 +10,7 @@ public class ManipulationArray {
                 "Doppio", "Expresso", "Frappuccino", "Freddo", "Lungo", "Macchiato",
                 "Marocchino", "Ristretto" };
         /*Copia el rango especificado de la matriz especificada en una nueva matriz
-        copyOfRnage(original, from, to)
+        copyOfRange(original, from, to)
         original -> la matriz desde la que se va a copiar un rango
         from -> el indice incial del rango a copiar, incluido
         to -> el indice final del rango copiar, exclusivo (este indice puede estar fuera de la matriz)*/
@@ -58,7 +58,7 @@ public class ManipulationArray {
         System.out.println("\tMetodo sort()");
         /*sort(int[] a)
         Ordena la matrriz especificada en orden numerico ascendente
-        a -> la matriz a oordenar*/
+        a -> la matriz a ordenar*/
         String[] letters = {"C","B","A"};
         Arrays.sort(letters);
 

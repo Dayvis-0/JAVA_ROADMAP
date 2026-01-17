@@ -1,7 +1,7 @@
 package JavaFundamentals_1.BasicSyntax_1.CreationPrimitives_2.PrimitiveTypes_1;
 /*Es un tipo de dato de 32bits
-Minimo: -2^63 = -2 147 483 648
-Maximo: 2^63-1 = 2 147 483 647*/
+Minimo: -2^31 = -2 147 483 648
+Maximo: 2^31-1 = 2 147 483 647*/
 public class Int {
     public static void main(String[] args) {
         int popula = 1500000;

@@ -1,6 +1,6 @@
 package JavaFundamentals_1.BasicSyntax_1.CreationPrimitives_2.PrimitiveTypes_1;
 /*Tipo entero con signo
-Tmaño: 64 bits
+Tamaño: 64 bits
 Rango:
 minimo -> -2⁶³ = -9,223,372,036,854,775,808
 maximo -> 2⁶³−1 = 9,223,372,036,854,775,807*/

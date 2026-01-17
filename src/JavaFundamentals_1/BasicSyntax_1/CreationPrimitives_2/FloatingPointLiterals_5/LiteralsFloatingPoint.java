@@ -1,6 +1,6 @@
 package JavaFundamentals_1.BasicSyntax_1.CreationPrimitives_2.FloatingPointLiterals_5;
 /* Un literal de punto flotante es de tipo float si terminacon la letra F o f; de lo contrario su tipo
-es double y opcinalmente puede terminar con la letra D o d.*/
+es double y opcionalmente puede terminar con la letra D o d.*/
 public class LiteralsFloatingPoint {
     public static void main(String[] args) {
         // Los tipos de punto flotante tambien se puede expresar usando E o e
